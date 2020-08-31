@@ -3,7 +3,7 @@
   <groupId>com.snapchat.kit.sdk</groupId>
   <artifactId>storykit</artifactId>
   <versioning>
-    <release>1.6.3</release>
+    <release>1.6.4</release>
     <versions>
       <version>1.4.0</version>
       <version>1.4.2</version>
@@ -13,7 +13,8 @@
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.3</version>
+      <version>1.6.4</version>
     </versions>
-    <lastUpdated>20200811232030</lastUpdated>
+    <lastUpdated>20200831220724</lastUpdated>
   </versioning>
 </metadata>
