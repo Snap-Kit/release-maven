@@ -3,7 +3,7 @@
   <groupId>com.snapchat.kit.sdk</groupId>
   <artifactId>creative</artifactId>
   <versioning>
-    <release>1.6.8</release>
+    <release>1.7.0</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -31,7 +31,9 @@
       <version>1.6.5</version>
       <version>1.6.7</version>
       <version>1.6.8</version>
+      <version>1.7.1</version>
+      <version>1.7.0</version>
     </versions>
-    <lastUpdated>20201209214653</lastUpdated>
+    <lastUpdated>20210128191418</lastUpdated>
   </versioning>
 </metadata>
