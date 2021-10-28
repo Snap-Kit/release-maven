@@ -3,7 +3,7 @@
   <groupId>com.snapchat.kit.sdk</groupId>
   <artifactId>bitmoji-search</artifactId>
   <versioning>
-    <release>1.11.0</release>
+    <release>1.12.0</release>
     <versions>
       <version>1.2.0</version>
       <version>1.4.0</version>
@@ -28,7 +28,8 @@
       <version>1.9.0</version>
       <version>1.10.0</version>
       <version>1.11.0</version>
+      <version>1.12.0</version>
     </versions>
-    <lastUpdated>20210915192252</lastUpdated>
+    <lastUpdated>20211028200538</lastUpdated>
   </versioning>
 </metadata>
